@@ -1,0 +1,4 @@
+1.jpg	 	{"value":"apple","coordinate":[[132,127],[205,240]]}
+2.jpg	 	{"value":"apple","coordinate":[[145,106],[166,189]]}
+3.jpg	 	{"value":"banana","coordinate":[[146,116],[260,163]]}
+4.jpg	 	{"value":"banana","coordinate":[[127,125],[235,170]]}
